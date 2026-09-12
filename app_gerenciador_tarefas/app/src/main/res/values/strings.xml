@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">app_gerenciador_tarefas</string>
+    <string name="explanetion_text">All tasks completed</string>
+    <string name="Congratulations_text">Nice work!</string>
 </resources>
